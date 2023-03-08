@@ -1,1 +1,6 @@
-check for test
+ 
+$> javac HelloWorld.java
+
+$> java HelloWorld
+HelloWorld
+$>
